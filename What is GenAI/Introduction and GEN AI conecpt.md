@@ -48,3 +48,55 @@ LLMs do the same thing, but with massive amounts of data.
 
 📚 End Result
 After training on a huge amount of text, the system becomes a Large Language Model—smart enough to write, answer questions, chat, summarize, translate, and more.
+
+
+
+## The terminology of AI
+
+Machine Learning is about using data to train a model that can make predictions or decisions automatically.
+👉 Goal: Teach the computer to learn patterns from data.
+
+Simple example:
+Given students' study hours, predict their marks.
+Once trained, the model can predict marks for any new student automatically.
+It’s mainly prediction.
+
+<img width="524" height="260" alt="image" src="https://github.com/user-attachments/assets/dfa10065-8379-434f-9b7b-9112a663cdd9" />
+
+🔍 Data Science Work (Understanding Data)
+A data scientist will answer questions like:
+
+What is the average mark? → 60
+How marks change when study hours increase?
+→ More study hours = more marks
+Make a graph of Study Hours vs Marks
+Identify patterns or trends
+
+This is analysis.
+
+🤖 Machine Learning Work (Prediction)
+We train a model:
+
+Input: Study Hours
+Output: Predicted Marks
+
+After learning the pattern, the model can answer:
+❓ If a student studies 6 hours, what will be the marks?
+The ML model may predict:
+👉 Around 90 marks
+The computer learned the pattern from data and predicts automatically.
+
+🧾 One Line Summary
+Data Science = Understanding data
+Machine Learning = Using data to make predictions
+
+🧠 Easy Analogy for Better Understanding
+Data Science = Doctor checking your body reports
+Finding: sugar level, BP, weight, overall condition.
+Machine Learning = Doctor predicting your future health
+If you continue same lifestyle, doctor predicts:
+“You may gain 5 kg in 2 months.”
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f434b38-2c06-4d64-b5d2-ee1f41f6f455" />
+
