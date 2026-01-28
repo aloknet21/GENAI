@@ -103,3 +103,100 @@ If you continue same lifestyle, doctor predicts:
 
 
 
+## Deep Learning vs Neural Network
+
+🧠 Neural Networks vs Deep Learning (Super Simple Explanation)
+⭐ What is a Neural Network?
+A Neural Network is a simple AI model made up of connected “neurons.”
+You can think of it like a small brain that learns patterns from data.
+👉 Works well for simple tasks.
+
+🤖 What is Deep Learning?
+Deep Learning is just a bigger, deeper neural network — meaning more layers, more neurons, more learning power.
+👉 It is used for complex tasks like detecting objects in images, self‑driving cars, language models, etc.
+Simple definition:
+
+Neural Network = small model with few layers
+Deep Learning = large model with many layers (deep neural network)
+
+
+📊 Simple Example (Just like before)
+Suppose we have a tiny dataset to identify if an image is of a "circle" or "square".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image Pixels (Simplified)Shaperound, smooth edgescirclesharp, 4 edgessquareround, no cornerscircle4 sides, equal lengthsquare
+
+🧩 How a Neural Network works on this data
+A small neural network:
+
+Looks at a few features (edges, corners, roundness)
+Predicts “circle” or “square”
+Works fine for simple shapes
+
+Think of it like:
+👉 A student who learns only basic shapes.
+
+🤖 How Deep Learning works on the same data
+If the dataset becomes bigger and more complex:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image TypeExamplecircletennis ball, wheel, moonsquaretable, box, window
+A deep learning model (many layers):
+
+Automatically learns features (edges → shapes → patterns)
+Understands more complex images
+Can handle shadows, angles, different lighting
+
+Think of it like:
+👉 A student who studied geometry deeply and can recognise shapes in any condition.
+
+🎯 One‑Line Summary
+Neural Network = a simple brain that learns patterns
+Deep Learning = a bigger, deeper brain that learns more complex patterns
+
+🧠 Easy Analogy (Just like earlier)
+⚪ Neural Network
+A person who can identify “cat” vs “dog” when shown simple clear pictures.
+🔵 Deep Learning
+A highly trained expert who can identify cats and dogs even in blurry photos, different angles, shadows, and crowded backgrounds.
+
+
+
