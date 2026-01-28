@@ -22,3 +22,9 @@ The model learns this mapping from data.
 <img width="495" height="292" alt="image" src="https://github.com/user-attachments/assets/05e74a0c-f519-476e-9586-1a177121d977" />
 
 
+From these examples, you can see that:
+
+You give some input (email, audio, image, words, sensor data).
+The machine learns how to produce the correct output (spam or not, text, translation, location, next word, etc.).
+Then it can automatically perform the task on new, unseen data.
+
