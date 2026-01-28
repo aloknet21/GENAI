@@ -9,3 +9,16 @@ AI is transforming work and life, with a potential value creation of $13 to $22 
 AI is already valuable in industries like software, retail, transportation, and more, with ongoing advancements in ANI and generative AI.
 
 ![AI Value Creation](image.png)
+
+
+# What is Machine Learning
+
+Machine Learning is a field of artificial intelligence where a system learns to map an input (A) to an output (B) by studying data.
+The system improves its performance automatically by learning patterns from examples instead of being explicitly programmed for each task.
+In simple terms:
+👉 Input (A) → Machine Learning Model → Output (B)
+The model learns this mapping from data.
+
+<img width="495" height="292" alt="image" src="https://github.com/user-attachments/assets/05e74a0c-f519-476e-9586-1a177121d977" />
+
+
