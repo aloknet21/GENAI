@@ -28,3 +28,19 @@ You give some input (email, audio, image, words, sensor data).
 The machine learns how to produce the correct output (spam or not, text, translation, location, next word, etc.).
 Then it can automatically perform the task on new, unseen data.
 
+# 🧠 How Large Language Models(LLM) Work
+Think of a Large Language Model (LLM) like ChatGPT as a smart system that learns to guess the next word in a sentence.
+LLMs learn by reading a huge amount of text and practicing predicting the next word in a sentence.
+By doing this billions of times, they become very good at understanding and generating human‑like language.
+🍵 In Everyday Language
+It’s like teaching a child how to finish your sentences.
+If you say:
+
+“Twinkle twinkle little…” → they say “star”
+“How are…” → they say “you”
+“Once upon a…” → they say “time”
+
+LLMs do the same thing, but with massive amounts of data.
+
+📚 End Result
+After training on a huge amount of text, the system becomes a Large Language Model—smart enough to write, answer questions, chat, summarize, translate, and more.
