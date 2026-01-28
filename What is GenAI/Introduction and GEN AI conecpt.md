@@ -53,6 +53,8 @@ After training on a huge amount of text, the system becomes a Large Language Mod
 
 ## The terminology of AI
 
+### Machine Learning vs Data Science
+
 Machine Learning is about using data to train a model that can make predictions or decisions automatically.
 👉 Goal: Teach the computer to learn patterns from data.
 
@@ -97,6 +99,7 @@ Machine Learning = Doctor predicting your future health
 If you continue same lifestyle, doctor predicts:
 “You may gain 5 kg in 2 months.”
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/73e931dd-c8f0-455f-b5b0-c38c5c3d858e" />
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f434b38-2c06-4d64-b5d2-ee1f41f6f455" />
+
 
